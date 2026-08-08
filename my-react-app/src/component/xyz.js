@@ -1,0 +1,61 @@
+export const BloodGrp = [
+  {
+    bId: 1,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+  {bId: 2,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+  {
+    bId: 3,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+  {
+    bId: 4,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+  {
+    bId: 5,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+  {
+    bId: 6,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+  {
+    bId: 7,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+  {
+    bId: 8,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+  {
+    bId: 9,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+  {
+    bId: 10,
+    name: "Ayush",
+    Bgrp: "A+",
+    age: 18,
+  },
+];
